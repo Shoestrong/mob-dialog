@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
+
 }
 html,body{
 	width: 100%;
@@ -18,7 +19,7 @@ html,body{
 .dialog_box{
 	width: 200px;
 	position: absolute;
-	left: 50%;
+	left:50%;
 	top: 50%;
 	margin-left: -100px;
 	border-radius: 5px;
